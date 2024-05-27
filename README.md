@@ -1,6 +1,6 @@
 # Metal Gear Jimmy with LÖVE2D
 ## Description
-Metal Gear Jimmy is based on the game Metal Gear Solid from Konami. The gameplay is a simple maze with a starting point, and your goal is to escape the maze while avoiding the surveillance cameras. If you would like to try out the game without downloading LÖVE or any program, you may play the [web version here](https://zmodna890.github.io).
+Metal Gear Jimmy is based on the game Metal Gear Solid from Konami. The gameplay is a simple maze with a starting point, and your goal is to escape the maze while avoiding the surveillance cameras. If you would like to try out the game without downloading LÖVE or any program, you may play the [web version here](https://zmodna890.github.io/MGJ/).
 
 ## Requirements
 - [LÖVE 11.0 or newer](https://love2d.org/#download)
